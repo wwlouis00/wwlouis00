@@ -1,10 +1,12 @@
 # wwlouis00
 ### Project
 - Raspberry Pi
+- Data processing
 - PyQT
-- YOLOv8
+- YOLO
+- Operating System Tool
 
-<h3> Tech Stack </h3>
+### Tech
 
 <div>
 <a href="https://github.com/wwlouis00">
