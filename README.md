@@ -3,7 +3,7 @@
 - Raspberry Pi
 - PyQT
 
-<h3> 🛠 Tech Stack </h3>
+<h3> Tech Stack </h3>
 
 <div>
 <a href="https://github.com/wwlouis00">
