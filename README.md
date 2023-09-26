@@ -1,7 +1,8 @@
 <h1 align="center"> wwlouis00 </h1>
-<h3> Project </h3>
+### Project
 - Raspberry Pi
 - PyQT
+- YOLOv8
 
 <h3> Tech Stack </h3>
 
