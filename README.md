@@ -1,10 +1,9 @@
 <h1 align="center"> wwlouis00 </h1>
-<div>
-<h3>Project </h3>
-<picture>
-<img src="https://github-readme-stats.vercel.app/api?username=wwlouis00&show_icons=true"/>
-</picture>
-</div>
+<h3> Project </h3>
+- Raspberry Pi
+- PyQT
+
+
 
 <a href="https://github.com/wwlouis00">
     <img height="175" src="https://github-stats-alpha.vercel.app/api?username=wwlouis00&cc=1a1b27&tc=36B5A6&ic=fff&bc=1a1b27">
