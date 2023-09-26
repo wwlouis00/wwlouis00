@@ -3,6 +3,7 @@
 - Raspberry Pi
 - PyQT
 
+<h3> 🛠 Tech Stack </h3>
 
 
 <a href="https://github.com/wwlouis00">
