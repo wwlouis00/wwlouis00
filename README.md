@@ -7,6 +7,7 @@
 - Operating System Tool
 
 ### Tech
+![My Skills](https://skillicons.dev/icons?i=python,matlab,cpp,linux,mysql,docker,git,vscode,latex,md)
 
 <div>
 <a href="https://github.com/wwlouis00">
