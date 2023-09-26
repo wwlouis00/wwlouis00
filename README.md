@@ -1,11 +1,7 @@
 <h1 align="center"> wwlouis00 </h1>
 <div>
-<h3> 🤖 Project </h3>
+<h3>Project </h3>
 <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=wwlouis00&show_icons=true&theme=radical"
-  media="(prefers-color-scheme: dark)"
-/>
 <img src="https://github-readme-stats.vercel.app/api?username=wwlouis00&show_icons=true"/>
 </picture>
 </div>
