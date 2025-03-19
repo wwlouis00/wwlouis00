@@ -2,10 +2,11 @@
 ### Project
 - Raspberry Pi
 - Data processing
-- PyQT
+- PyQT6
 - YOLO
 - Operating System Tool
 - Selenium
+- Auto Test
 
 ### Tech
 ![My Skills](https://skillicons.dev/icons?i=python,linux,raspberrypi,github,gitlab,docker,git,vscode,vim,md)
