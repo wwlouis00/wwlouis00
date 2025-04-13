@@ -1,7 +1,6 @@
 # wwlouis00
 ### Project
 - Raspberry Pi
-- Data processing
 - PyQT6
 - YOLO
 - Operating System Tool
