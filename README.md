@@ -5,7 +5,7 @@
 - YOLO
 - Operating System Tool
 - Selenium
-- Auto Test
+- Auto Test Script
 
 ### Tech
 ![My Skills](https://skillicons.dev/icons?i=python,linux,raspberrypi,github,gitlab,docker,git,vscode,vim,md)
