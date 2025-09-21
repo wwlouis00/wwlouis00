@@ -1,8 +1,10 @@
 # wwlouis00
 ### Project
 - Raspberry Pi
-- PyQT6
-- YOLO
+- Embedded system
+- C
+- Python
+- Linux
 - Operating System Tool
 - Selenium
 - Auto Test Script
