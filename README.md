@@ -1,20 +1,39 @@
-# wwlouis00
-### Project
+# Hi, I'm Louis  Wang 👋
+
+### About Me
+Embedded systems engineer & Python/C developer with experience in Raspberry Pi, Linux, automated testing, and OS tools.
+
+---
+
+### 🔧 Projects
 - Raspberry Pi
-- Embedded system
-- C
-- Python
-- Linux
-- Operating System Tool
-- Selenium
-- Auto Test Script
+- Embedded System Development
+- C / Python Programming
+- Linux & Operating System Tools
+- Selenium Automation
+- Auto Test Scripts
 
-### Tech
-![My Skills](https://skillicons.dev/icons?i=python,linux,raspberrypi,github,gitlab,docker,git,vscode,vim,md)
 
-<div>
-<a href="https://github.com/wwlouis00">
-    <img height="175" src="https://github-stats-alpha.vercel.app/api?username=wwlouis00&cc=1a1b27&tc=36B5A6&ic=fff&bc=1a1b27">
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=wwlouis00&show_icons=true&locale=en&layout=compact&title_color=fff&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27&border_color=1a1b27">
-</a>
+
+### 💻 Tech Stack
+![Python](https://skillicons.dev/icons?i=python)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)
+![GitHub](https://skillicons.dev/icons?i=github)
+![GitLab](https://skillicons.dev/icons?i=gitlab)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Vim](https://skillicons.dev/icons?i=vim)
+![Markdown](https://skillicons.dev/icons?i=md)
+
+### 📊 GitHub Stats
+<div align="center">
+  <a href="https://github.com/wwlouis00">
+    <img src="https://github-readme-stats.vercel.app/api?username=wwlouis00&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" style="margin-right:10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwlouis00&layout=compact&theme=radical&hide_border=true" height="160" />
+  </a>
 </div>
+
+
+
