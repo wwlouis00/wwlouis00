@@ -1,17 +1,21 @@
-# Hi, I'm Louis  Wang 👋
+<h1 align="center">Hi, I'm Louis Wang 👋</h1>
+---
 
-### About Me
-Embedded systems engineer & Python/C developer with experience in Raspberry Pi, Linux, automated testing, and OS tools.
+### 👨‍💻 About Me
+- Embedded systems engineer with hands-on experience in **Raspberry Pi** and **Linux environments**
+- Proficient in **Python** and **C** for system-level and automation development
+- Experienced in **automated testing**, **OS tools**, and **test script design**
 
 ---
 
-### 🔧 Projects
-- Raspberry Pi
-- Embedded System Development
-- C / Python Programming
-- Linux & Operating System Tools
-- Selenium Automation
-- Auto Test Scripts
+### 🔧 Projects & Technical Skills
+- 🖥️ **Raspberry Pi** application development  
+- ⚙️ **Embedded system development**  
+- 🧠 **C / Python programming**  
+- 🐧 **Linux & operating system tools**  
+- 🤖 **Selenium automation**  
+- 🧪 **Automated test script development**
+
 
 
 
