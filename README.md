@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Louis Wang 👋</h1>
----
 
 ### 👨‍💻 About Me
 - Embedded systems engineer with hands-on experience in **Raspberry Pi** and **Linux environments**
@@ -30,14 +29,3 @@
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Vim](https://skillicons.dev/icons?i=vim)
 ![Markdown](https://skillicons.dev/icons?i=md)
-
-### 📊 GitHub Stats
-<div align="center">
-  <a href="https://github.com/wwlouis00">
-    <img src="https://github-readme-stats.vercel.app/api?username=wwlouis00&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" style="margin-right:10px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwlouis00&layout=compact&theme=radical&hide_border=true" height="160" />
-  </a>
-</div>
-
-
-
